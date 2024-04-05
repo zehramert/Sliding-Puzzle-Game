@@ -5,3 +5,11 @@ This algorithm is an approach to problem-solving that employs a practical method
 
 ## GUI AND OUTPUT
 
+![](gui.png) 
+
+![](gui2.png)
+
+![](output.png)
+
+![](gui3.png)
+
