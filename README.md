@@ -6,9 +6,7 @@ This algorithm is an approach to problem-solving that employs a practical method
 ## GUI AND OUTPUT
 
 <img src="gui.png" width="400"> <img src="gui2.png" alt="alt yazı" width="400">
-<img src="output.png" alt="alt yazı" width="320">
-
-<img src="gui3.png" alt="alt yazı" width="320">
+<img src="output.png" alt="" width="400"> <img src="gui3.png" alt="" width="400">
 
 
 
