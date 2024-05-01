@@ -5,11 +5,10 @@ This algorithm is an approach to problem-solving that employs a practical method
 
 ## GUI AND OUTPUT
 
-![](gui.png) 
+<img src="gui.png" width="400"> <img src="gui2.png" alt="alt yazı" width="400">
+<img src="output.png" alt="alt yazı" width="320">
 
-![](gui2.png)
+<img src="gui3.png" alt="alt yazı" width="320">
 
-![](output.png)
 
-![](gui3.png)
 
